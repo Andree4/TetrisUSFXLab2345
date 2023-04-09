@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TetrisUSFX01-0162.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Block.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Board.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Piece.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01GameModeBase.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Block.gen.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Board.gen.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Piece.gen.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01.init.gen.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01GameModeBase.gen.cpp.obj"
+"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Default.rc2.res"
+/OUT:"D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\UE4Editor-TetrisUSFX01-0162.lib"

@@ -1,0 +1,2 @@
+D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\Tareas restantes\Programacion Avanzada\TetrisUSFX01-master\Source\TetrisUSFX01\TetrisUSFX01.h
