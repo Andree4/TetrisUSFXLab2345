@@ -1,5 +1,13 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
+/*Integrantes:
+Jhamil Crespo Rojas Ing en Ciencias de la Computación
+David Fernando Lujan Renteria Ing en Ciencias de la Computación
+Jose David Ledezma Delgado Ing en Sistemas
+Jorge Isaac Velasco Barriga Ing en Sistemas
+Matias Ezequiel Gutierrez Coronado Ing en Sistemas
+Daniel Andree Arancibia Aguilar Ing en Ciencias de la Computación
 
+*/
 
 #include "TetrisUSFX01GameModeBase.h"
 //
