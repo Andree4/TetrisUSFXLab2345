@@ -1,11 +1,10 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 /*Integrantes:
-Jhamil Crespo Rojas Ing en Ciencias de la Computación
-David Fernando Lujan Renteria Ing en Ciencias de la Computación
+Jhamil Crespo Rojas Ing en Ciencias de la ComputaciÃ³n
+David Fernando Lujan Renteria Ing en Ciencias de la ComputaciÃ³n
 Jose David Ledezma Delgado Ing en Sistemas
 Jorge Isaac Velasco Barriga Ing en Sistemas
-Matias Ezequiel Gutierrez Coronado Ing en Sistemas
-Daniel Andree Arancibia Aguilar Ing en Ciencias de la Computación
+Daniel Andree Arancibia Aguilar Ing en Ciencias de la ComputaciÃ³n
 
 */
 
@@ -13,7 +12,7 @@ Daniel Andree Arancibia Aguilar Ing en Ciencias de la Computación
 //
 void ATetrisUSFX01GameModeBase::BeginPlay()
 {
-    //Evita que se genere una pieza extra si el tiempo esta de más
+    //Evita que se genere una pieza extra si el tiempo esta de mÃ¡s
     residuo = TM % TS;
     TiempoMaximo -= residuo;
     //ciclo que genera bloques
