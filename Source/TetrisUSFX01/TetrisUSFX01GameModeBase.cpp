@@ -74,6 +74,20 @@ void ATetrisUSFX01GameModeBase::GenerarBloque()
         //guarda el nombre y posicion de la pieza
         mapita.Add(contador, SpawnedPiece);
         contador++;
+        //Tiempo real
+        FDateTime TiempoReal = FDateTime::Now();
+        int Hour = TiempoReal.GetHour();
+        int Minute = TiempoReal.GetMinute();
+        int Second = TiempoReal.GetSecond();
+
+        int DiaActual = TiempoReal.GetDay();
+        int MesActual = TiempoReal.GetMonth();
+        int AnioActual = TiempoReal.GetYear();
+
+        //Imprimir la hora actual
+        GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, TEXT("es: ") + FString::FromInt(Hour) + +TEXT(", ") + FString::FromInt(Minute) + +TEXT(", ") +FString::FromInt(Second));
+        GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, TEXT("es: ") + FString::FromInt(DiaActual) + TEXT(", ") + FString::FromInt(MesActual) + TEXT(", ")+FString::FromInt(AnioActual));
+
     }
 
 
