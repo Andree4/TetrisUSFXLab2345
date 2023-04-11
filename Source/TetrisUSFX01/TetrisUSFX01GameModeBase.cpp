@@ -9,7 +9,10 @@ Daniel Andree Arancibia Aguilar Ing en Ciencias de la Computación
 */
 
 #include "TetrisUSFX01GameModeBase.h"
-//
+//Sacar hora y fecha
+#include "Misc/DateTime.h"
+#include "TimerManager.h"
+
 void ATetrisUSFX01GameModeBase::BeginPlay()
 {
     //Evita que se genere una pieza extra si el tiempo esta de más
